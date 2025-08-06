@@ -1,0 +1,15 @@
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\InterfaceMovableApp\bin\Debug\net9.0\InterfaceMovableApp.exe
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\InterfaceMovableApp\bin\Debug\net9.0\InterfaceMovableApp.deps.json
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\InterfaceMovableApp\bin\Debug\net9.0\InterfaceMovableApp.runtimeconfig.json
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\InterfaceMovableApp\bin\Debug\net9.0\InterfaceMovableApp.dll
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\InterfaceMovableApp\bin\Debug\net9.0\InterfaceMovableApp.pdb
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\InterfaceMovableApp\obj\Debug\net9.0\InterfaceMovableApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\InterfaceMovableApp\obj\Debug\net9.0\InterfaceMovableApp.AssemblyInfoInputs.cache
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\InterfaceMovableApp\obj\Debug\net9.0\InterfaceMovableApp.AssemblyInfo.cs
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\InterfaceMovableApp\obj\Debug\net9.0\InterfaceMovableApp.csproj.CoreCompileInputs.cache
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\InterfaceMovableApp\obj\Debug\net9.0\InterfaceMovableApp.sourcelink.json
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\InterfaceMovableApp\obj\Debug\net9.0\InterfaceMovableApp.dll
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\InterfaceMovableApp\obj\Debug\net9.0\refint\InterfaceMovableApp.dll
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\InterfaceMovableApp\obj\Debug\net9.0\InterfaceMovableApp.pdb
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\InterfaceMovableApp\obj\Debug\net9.0\InterfaceMovableApp.genruntimeconfig.cache
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\InterfaceMovableApp\obj\Debug\net9.0\ref\InterfaceMovableApp.dll
