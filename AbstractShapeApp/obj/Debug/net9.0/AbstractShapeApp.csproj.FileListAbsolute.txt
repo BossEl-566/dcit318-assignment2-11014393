@@ -1,0 +1,15 @@
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\AbstractShapeApp\bin\Debug\net9.0\AbstractShapeApp.exe
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\AbstractShapeApp\bin\Debug\net9.0\AbstractShapeApp.deps.json
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\AbstractShapeApp\bin\Debug\net9.0\AbstractShapeApp.runtimeconfig.json
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\AbstractShapeApp\bin\Debug\net9.0\AbstractShapeApp.dll
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\AbstractShapeApp\bin\Debug\net9.0\AbstractShapeApp.pdb
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\AbstractShapeApp\obj\Debug\net9.0\AbstractShapeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\AbstractShapeApp\obj\Debug\net9.0\AbstractShapeApp.AssemblyInfoInputs.cache
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\AbstractShapeApp\obj\Debug\net9.0\AbstractShapeApp.AssemblyInfo.cs
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\AbstractShapeApp\obj\Debug\net9.0\AbstractShapeApp.csproj.CoreCompileInputs.cache
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\AbstractShapeApp\obj\Debug\net9.0\AbstractShapeApp.sourcelink.json
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\AbstractShapeApp\obj\Debug\net9.0\AbstractShapeApp.dll
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\AbstractShapeApp\obj\Debug\net9.0\refint\AbstractShapeApp.dll
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\AbstractShapeApp\obj\Debug\net9.0\AbstractShapeApp.pdb
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\AbstractShapeApp\obj\Debug\net9.0\AbstractShapeApp.genruntimeconfig.cache
+C:\Users\erica\Downloads\Dcit-assignment2\dcit318-assignment2-11014393\AbstractShapeApp\obj\Debug\net9.0\ref\AbstractShapeApp.dll
